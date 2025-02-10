@@ -1,2 +1,1 @@
-# project
-geekbrain project
+# project my shell
